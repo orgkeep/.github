@@ -15,5 +15,5 @@ read. Open source, Apache 2.0.
 | [orgkeep-theme](https://github.com/orgkeep/orgkeep-theme) | The Keycloak theme: login, emails, Account console. Image `ghcr.io/orgkeep/orgkeep-keycloak` |
 | [orgkeep-examples](https://github.com/orgkeep/orgkeep-examples) | The demo stack, and APIs protected by Orgkeep (Spring Boot, Vert.x, a Go gateway) |
 
-[orgkeep.org](https://orgkeep.org) · Contributions welcome: see the `CONTRIBUTING.md` of each repository ·
+[orgkeep.org](https://orgkeep.org) · [Roadmap](https://github.com/orgs/orgkeep/projects/3) · Contributions welcome: see the `CONTRIBUTING.md` of each repository ·
 Security issues: [report them privately](https://github.com/orgkeep/orgkeep-core/security/advisories/new)
